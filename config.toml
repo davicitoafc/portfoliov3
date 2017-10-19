@@ -1,3 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://davidcis/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+googleAnalytics = "UA-10760146-9"
