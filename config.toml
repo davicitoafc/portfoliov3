@@ -1,4 +1,16 @@
 baseurl = "http://davidcis/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-googleAnalytics = "UA-10760146-9"
+title = "David C - Software Developer"
+googleAnalytics = ""
+
+[Author]
+  name = "Some Person"
+  email = "youremail@domain.com"
+  facebook = "username"
+  github = ""
+  instagram = "username"
+  twitter = "username"
+  linkedin = ""
+  stackoverflow = ""
+  soundcloud = ""
+  wikipedia = ""
