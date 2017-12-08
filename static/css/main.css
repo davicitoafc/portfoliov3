@@ -9,7 +9,7 @@ body {
   margin-bottom: 60px;
 }
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
@@ -40,4 +40,10 @@ code {
 a.social {
   color: grey;
   text-decoration: none;
+  font-size: 4ex;
+  padding: 0 20px;
+}
+
+.fa-twitter:hover, .fa-github:hover, .fa-linkedin:hover {
+  color: white;
 }
