@@ -45,7 +45,7 @@ a.social {
 
 .nav-edit {
   color: rgba(0,0,0,.5) !important;
-  font-size: 3ex;
+  font-size: 2rem;
 }
 
 .fa-twitter:hover, .fa-github:hover, .fa-linkedin:hover {
@@ -55,4 +55,9 @@ a.social {
 p.description {
   color: grey;
   font-size: 3ex;
+}
+
+.projects {
+  color: grey;
+  padding-top: 20px;
 }
